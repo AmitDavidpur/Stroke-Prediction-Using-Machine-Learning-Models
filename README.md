@@ -34,7 +34,9 @@ Final_workshop_New/
 │── ModelsResultsFiles/  # Saved model results and evaluation metrics
 │── main.py   
 │── pyproject.toml  # Project dependencies and configurations  
-│── README.md  # Project overview and documentation  
+│── README.md  # Project overview and documentation
+![image](https://github.com/user-attachments/assets/236d1dff-e517-4385-96f0-d0fc1377c000)
+
 
 # Key stages
 Data Import: Load the dataset -> 
