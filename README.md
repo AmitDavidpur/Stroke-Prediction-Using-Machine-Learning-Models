@@ -15,26 +15,7 @@ https://www.sciencedirect.com/science/article/pii/S2772442522000090
 https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
 # Folder & Module Structure
-Final_workshop_New/  
-│── src/
-│   ├── Preprocessing/  # Data exploration, missing value handling, encoding 
-│   │   ├── preprocessing.py
-│   │   ├── visualization.py  
-│   ├── FeatureAnalysis/  # PCA, data balancing, feature contributions
-│   │   ├── FeatureAnalysis.py  
-│   │   ├── balancing.py 
-│   │   ├── visualization.py   
-│   ├── Models.py
-│   ├── pipeline.py # Execute the workflow
-│   ├── config.py
-│── tests/  
-│   ├── test_preprocessing.py  # Unit tests for preprocessing 
-│── data/  # Original dataset  
-│── plots/  # visualizations
-│── ModelsResultsFiles/  # Saved model results and evaluation metrics
-│── main.py   
-│── pyproject.toml  # Project dependencies and configurations  
-│── README.md  # Project overview and documentation
+
 ![image](https://github.com/user-attachments/assets/236d1dff-e517-4385-96f0-d0fc1377c000)
 
 
