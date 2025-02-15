@@ -1,0 +1,2776 @@
+2025-02-11 20:39:46,715 - INFO - Starting data cleaning process...
+2025-02-11 20:39:46,719 - INFO - Converted categorical columns to object type.
+2025-02-11 20:39:46,743 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:39:46,749 - INFO - Number of duplicate rows: 0
+2025-02-11 20:39:46,754 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:39:46,757 - INFO - Data cleaning process completed.
+2025-02-11 20:40:48,951 - INFO - Starting data cleaning process...
+2025-02-11 20:40:48,960 - INFO - Converted categorical columns to object type.
+2025-02-11 20:40:48,983 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:40:48,992 - INFO - Number of duplicate rows: 0
+2025-02-11 20:40:49,006 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:40:49,007 - INFO - Data cleaning process completed.
+2025-02-11 20:40:49,008 - INFO - Starting categorical data visualization...
+2025-02-11 20:40:49,011 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:44:07,835 - INFO - Starting data cleaning process...
+2025-02-11 20:44:07,839 - INFO - Converted categorical columns to object type.
+2025-02-11 20:44:07,855 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:44:07,865 - INFO - Number of duplicate rows: 0
+2025-02-11 20:44:07,874 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:44:07,877 - INFO - Data cleaning process completed.
+2025-02-11 20:44:07,878 - INFO - Starting categorical data visualization...
+2025-02-11 20:44:07,880 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:46:11,759 - INFO - Starting data cleaning process...
+2025-02-11 20:46:11,767 - INFO - Converted categorical columns to object type.
+2025-02-11 20:46:11,813 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:46:11,819 - INFO - Number of duplicate rows: 0
+2025-02-11 20:46:11,824 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:46:11,825 - INFO - Data cleaning process completed.
+2025-02-11 20:46:11,826 - INFO - Starting categorical data visualization...
+2025-02-11 20:46:11,829 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:47:40,155 - INFO - Starting data cleaning process...
+2025-02-11 20:47:40,158 - INFO - Converted categorical columns to object type.
+2025-02-11 20:47:40,173 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:47:40,194 - INFO - Number of duplicate rows: 0
+2025-02-11 20:47:40,199 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:47:40,200 - INFO - Data cleaning process completed.
+2025-02-11 20:47:40,200 - INFO - Starting categorical data visualization...
+2025-02-11 20:47:40,203 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:47:40,332 - INFO - Bar chart plotted for gender.
+2025-02-11 20:47:40,334 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 20:47:40,393 - INFO - Bar chart plotted for hypertension.
+2025-02-11 20:47:40,395 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 20:47:40,448 - INFO - Bar chart plotted for heart_disease.
+2025-02-11 20:47:40,449 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 20:47:40,509 - INFO - Bar chart plotted for ever_married.
+2025-02-11 20:47:40,511 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 20:47:40,571 - INFO - Bar chart plotted for work_type.
+2025-02-11 20:47:40,573 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 20:47:40,641 - INFO - Bar chart plotted for Residence_type.
+2025-02-11 20:47:40,642 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 20:47:40,702 - INFO - Bar chart plotted for smoking_status.
+2025-02-11 20:47:40,703 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 20:47:40,766 - INFO - Bar chart plotted for stroke.
+2025-02-11 20:47:40,766 - INFO - Categorical data visualization completed.
+2025-02-11 20:47:40,767 - INFO - Starting numerical data visualization...
+2025-02-11 20:47:40,841 - INFO - Histogram plotted for age.
+2025-02-11 20:47:40,903 - INFO - Histogram plotted for avg_glucose_level.
+2025-02-11 20:47:40,974 - INFO - Histogram plotted for bmi.
+2025-02-11 20:47:40,974 - INFO - Numerical data visualization completed.
+2025-02-11 20:49:29,072 - INFO - Starting data cleaning process...
+2025-02-11 20:49:29,080 - INFO - Converted categorical columns to object type.
+2025-02-11 20:49:29,103 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:49:29,115 - INFO - Number of duplicate rows: 0
+2025-02-11 20:49:29,125 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:49:29,125 - INFO - Data cleaning process completed.
+2025-02-11 20:49:29,126 - INFO - Starting categorical data visualization...
+2025-02-11 20:49:29,128 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:54:19,538 - INFO - Starting data cleaning process...
+2025-02-11 20:54:19,542 - INFO - Converted categorical columns to object type.
+2025-02-11 20:54:19,555 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:54:19,571 - INFO - Number of duplicate rows: 0
+2025-02-11 20:54:19,582 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:54:19,582 - INFO - Data cleaning process completed.
+2025-02-11 20:54:19,583 - INFO - Starting categorical data visualization...
+2025-02-11 20:54:19,587 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:54:53,108 - INFO - Starting data cleaning process...
+2025-02-11 20:54:53,112 - INFO - Converted categorical columns to object type.
+2025-02-11 20:54:53,131 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 20:54:53,139 - INFO - Number of duplicate rows: 0
+2025-02-11 20:54:53,146 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 20:54:53,146 - INFO - Data cleaning process completed.
+2025-02-11 20:54:53,147 - INFO - Starting categorical data visualization...
+2025-02-11 20:54:53,150 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 20:54:53,433 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 20:54:53,435 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 20:54:53,559 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 20:54:53,561 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 20:54:53,676 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 20:54:53,678 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 20:54:53,811 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 20:54:53,813 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 20:54:53,964 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 20:54:53,966 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 20:54:54,108 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 20:54:54,110 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 20:54:54,264 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 20:54:54,266 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 20:54:54,389 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 20:54:54,389 - INFO - Categorical data visualization completed.
+2025-02-11 20:54:54,390 - INFO - Starting numerical data visualization...
+2025-02-11 20:54:54,543 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 20:54:54,701 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 20:54:54,844 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 20:54:54,845 - INFO - Numerical data visualization completed.
+2025-02-11 21:04:23,503 - INFO - Starting data cleaning process...
+2025-02-11 21:04:23,517 - INFO - Converted categorical columns to object type.
+2025-02-11 21:04:23,536 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:04:23,542 - INFO - Number of duplicate rows: 0
+2025-02-11 21:04:23,548 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:04:23,548 - INFO - Data cleaning process completed.
+2025-02-11 21:04:23,549 - INFO - Starting categorical data visualization...
+2025-02-11 21:04:23,551 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:04:23,704 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:04:23,706 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:04:23,807 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:04:23,809 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:04:23,915 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:04:23,917 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:04:24,046 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:04:24,047 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:04:24,178 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:04:24,180 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:04:24,293 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:04:24,295 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:04:24,409 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:04:24,411 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:04:24,514 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:04:24,515 - INFO - Categorical data visualization completed.
+2025-02-11 21:04:24,516 - INFO - Starting numerical data visualization...
+2025-02-11 21:04:24,659 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:04:24,788 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:04:25,012 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:04:25,013 - INFO - Numerical data visualization completed.
+2025-02-11 21:04:25,013 - INFO - Starting BMI filling process...
+2025-02-11 21:04:25,017 - INFO - Created 4 glucose bins.
+2025-02-11 21:04:25,023 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:04:25,030 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:04:25,032 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:04:25,033 - INFO - BMI filling process completed.
+2025-02-11 21:04:25,034 - INFO - Starting encoding process...
+2025-02-11 21:04:25,036 - INFO - Encoded column: gender
+2025-02-11 21:04:25,038 - INFO - Encoded column: ever_married
+2025-02-11 21:04:25,039 - INFO - Encoded column: work_type
+2025-02-11 21:04:25,041 - INFO - Encoded column: Residence_type
+2025-02-11 21:04:25,044 - INFO - Encoded column: smoking_status
+2025-02-11 21:04:25,044 - INFO - Encoding process completed.
+2025-02-11 21:04:25,045 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:04:25,046 - ERROR - Error computing correlation matrix: could not convert string to float: 'Male'
+2025-02-11 21:04:25,047 - INFO - Starting the data splitting process...
+2025-02-11 21:04:25,049 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:04:25,055 - ERROR - Error in split_data function: could not convert string to float: 'Male'
+2025-02-11 21:05:26,849 - INFO - Starting data cleaning process...
+2025-02-11 21:05:26,852 - INFO - Converted categorical columns to object type.
+2025-02-11 21:05:26,869 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:05:26,878 - INFO - Number of duplicate rows: 0
+2025-02-11 21:05:26,887 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:05:26,888 - INFO - Data cleaning process completed.
+2025-02-11 21:05:26,888 - INFO - Starting categorical data visualization...
+2025-02-11 21:05:26,894 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:05:27,075 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:05:27,077 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:05:27,184 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:05:27,187 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:05:27,326 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:05:27,328 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:05:27,448 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:05:27,450 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:05:27,575 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:05:27,578 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:05:27,698 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:05:27,701 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:05:27,824 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:05:27,826 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:05:27,947 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:05:27,948 - INFO - Categorical data visualization completed.
+2025-02-11 21:05:27,948 - INFO - Starting numerical data visualization...
+2025-02-11 21:05:28,097 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:05:28,222 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:05:28,346 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:05:28,347 - INFO - Numerical data visualization completed.
+2025-02-11 21:05:28,347 - INFO - Starting BMI filling process...
+2025-02-11 21:05:28,350 - INFO - Created 4 glucose bins.
+2025-02-11 21:05:28,356 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:05:28,362 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:05:28,364 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:05:28,364 - INFO - BMI filling process completed.
+2025-02-11 21:05:28,365 - INFO - Starting encoding process...
+2025-02-11 21:05:28,368 - INFO - Encoded column: gender
+2025-02-11 21:05:28,370 - INFO - Encoded column: ever_married
+2025-02-11 21:05:28,373 - INFO - Encoded column: work_type
+2025-02-11 21:05:28,375 - INFO - Encoded column: Residence_type
+2025-02-11 21:05:28,378 - INFO - Encoded column: smoking_status
+2025-02-11 21:05:28,379 - INFO - Encoding process completed.
+2025-02-11 21:05:28,380 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:05:28,381 - ERROR - Error computing correlation matrix: could not convert string to float: 'Male'
+2025-02-11 21:05:28,381 - INFO - Starting the data splitting process...
+2025-02-11 21:05:28,383 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:05:28,386 - ERROR - Error in split_data function: could not convert string to float: 'Male'
+2025-02-11 21:05:28,388 - INFO - Starting PCA analysis...
+2025-02-11 21:05:28,389 - ERROR - Error in PCA analysis: Expected 2D array, got scalar array instead:
+array=nan.
+Reshape your data either using array.reshape(-1, 1) if your data has a single feature or array.reshape(1, -1) if it contains a single sample.
+2025-02-11 21:05:28,389 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:05:28,390 - ERROR - Error in plotting Scree plot: 'DataFrame' object has no attribute 'explained_variance_ratio_'
+2025-02-11 21:08:41,893 - INFO - Starting data cleaning process...
+2025-02-11 21:08:41,896 - INFO - Converted categorical columns to object type.
+2025-02-11 21:08:41,910 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:08:41,918 - INFO - Number of duplicate rows: 0
+2025-02-11 21:08:41,923 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:08:41,924 - INFO - Data cleaning process completed.
+2025-02-11 21:08:41,924 - INFO - Starting categorical data visualization...
+2025-02-11 21:08:41,926 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:08:42,095 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:08:42,097 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:08:42,196 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:08:42,198 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:08:42,304 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:08:42,306 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:08:42,423 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:08:42,425 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:08:42,550 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:08:42,552 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:08:42,667 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:08:42,669 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:08:42,785 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:08:42,788 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:08:42,905 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:08:42,906 - INFO - Categorical data visualization completed.
+2025-02-11 21:08:42,906 - INFO - Starting numerical data visualization...
+2025-02-11 21:08:43,046 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:08:43,183 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:08:43,322 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:08:43,323 - INFO - Numerical data visualization completed.
+2025-02-11 21:08:43,323 - INFO - Starting BMI filling process...
+2025-02-11 21:08:43,326 - INFO - Created 4 glucose bins.
+2025-02-11 21:08:43,334 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:08:43,341 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:08:43,344 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:08:43,345 - INFO - BMI filling process completed.
+2025-02-11 21:08:43,346 - INFO - Starting encoding process...
+2025-02-11 21:08:43,348 - INFO - Encoded column: gender
+2025-02-11 21:08:43,349 - INFO - Encoded column: ever_married
+2025-02-11 21:08:43,352 - INFO - Encoded column: work_type
+2025-02-11 21:08:43,354 - INFO - Encoded column: Residence_type
+2025-02-11 21:08:43,358 - INFO - Encoded column: smoking_status
+2025-02-11 21:08:43,359 - INFO - Encoding process completed.
+2025-02-11 21:08:43,360 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:08:43,364 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:08:43,701 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:08:43,702 - INFO - Starting the data splitting process...
+2025-02-11 21:08:43,703 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:08:43,711 - INFO - Features successfully standardized.
+2025-02-11 21:08:43,714 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:08:43,714 - INFO - Starting PCA analysis...
+2025-02-11 21:08:43,717 - INFO - PCA analysis completed successfully.
+2025-02-11 21:08:43,717 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:08:43,718 - ERROR - Error in plotting Scree plot: 'DataFrame' object has no attribute 'explained_variance_ratio_'
+2025-02-11 21:11:10,112 - INFO - Starting data cleaning process...
+2025-02-11 21:11:10,117 - INFO - Converted categorical columns to object type.
+2025-02-11 21:11:10,132 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:11:10,143 - INFO - Number of duplicate rows: 0
+2025-02-11 21:11:10,149 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:11:10,150 - INFO - Data cleaning process completed.
+2025-02-11 21:11:10,151 - INFO - Starting categorical data visualization...
+2025-02-11 21:11:10,153 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:11:10,369 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:11:10,372 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:11:10,492 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:11:10,495 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:11:10,649 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:11:10,652 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:11:10,802 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:11:10,805 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:11:10,963 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:11:10,964 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:11:11,098 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:11:11,100 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:11:11,259 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:11:11,262 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:11:11,402 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:11:11,403 - INFO - Categorical data visualization completed.
+2025-02-11 21:11:11,403 - INFO - Starting numerical data visualization...
+2025-02-11 21:11:11,559 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:11:11,698 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:11:11,833 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:11:11,834 - INFO - Numerical data visualization completed.
+2025-02-11 21:11:11,834 - INFO - Starting BMI filling process...
+2025-02-11 21:11:11,837 - INFO - Created 4 glucose bins.
+2025-02-11 21:11:11,840 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:11:11,849 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:11:11,852 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:11:11,853 - INFO - BMI filling process completed.
+2025-02-11 21:11:11,854 - INFO - Starting encoding process...
+2025-02-11 21:11:11,858 - INFO - Encoded column: gender
+2025-02-11 21:11:11,861 - INFO - Encoded column: ever_married
+2025-02-11 21:11:11,862 - INFO - Encoded column: work_type
+2025-02-11 21:11:11,864 - INFO - Encoded column: Residence_type
+2025-02-11 21:11:11,869 - INFO - Encoded column: smoking_status
+2025-02-11 21:11:11,869 - INFO - Encoding process completed.
+2025-02-11 21:11:11,870 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:11:11,876 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:11:12,217 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:11:12,218 - INFO - Starting the data splitting process...
+2025-02-11 21:11:12,220 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:11:12,228 - INFO - Features successfully standardized.
+2025-02-11 21:11:12,233 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:11:12,234 - INFO - Starting PCA analysis...
+2025-02-11 21:11:12,237 - INFO - PCA analysis completed successfully.
+2025-02-11 21:11:12,238 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:11:12,375 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:11:12,375 - INFO - Explained variance by each principal component:
+2025-02-11 21:11:12,376 - INFO - PC1: 22.89%
+2025-02-11 21:11:12,376 - INFO - PC2: 11.93%
+2025-02-11 21:11:12,376 - INFO - PC3: 10.53%
+2025-02-11 21:11:12,377 - INFO - PC4: 10.06%
+2025-02-11 21:11:12,377 - INFO - PC5: 9.23%
+2025-02-11 21:11:12,378 - INFO - PC6: 9.02%
+2025-02-11 21:11:12,378 - INFO - PC7: 8.38%
+2025-02-11 21:11:12,378 - INFO - PC8: 7.77%
+2025-02-11 21:11:12,379 - INFO - PC9: 7.16%
+2025-02-11 21:11:12,379 - INFO - PC10: 3.03%
+2025-02-11 21:15:33,596 - INFO - Starting data cleaning process...
+2025-02-11 21:15:33,600 - INFO - Converted categorical columns to object type.
+2025-02-11 21:15:33,626 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:15:33,632 - INFO - Number of duplicate rows: 0
+2025-02-11 21:15:33,639 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:15:33,641 - INFO - Data cleaning process completed.
+2025-02-11 21:15:33,642 - INFO - Starting categorical data visualization...
+2025-02-11 21:15:33,643 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:15:33,807 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:15:33,809 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:15:33,926 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:15:33,930 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:15:34,053 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:15:34,055 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:15:34,180 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:15:34,182 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:15:34,305 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:15:34,307 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:15:34,425 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:15:34,427 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:15:34,557 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:15:34,559 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:15:34,668 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:15:34,669 - INFO - Categorical data visualization completed.
+2025-02-11 21:15:34,669 - INFO - Starting numerical data visualization...
+2025-02-11 21:15:34,817 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:15:34,946 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:15:35,077 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:15:35,078 - INFO - Numerical data visualization completed.
+2025-02-11 21:15:35,078 - INFO - Starting BMI filling process...
+2025-02-11 21:15:35,081 - INFO - Created 4 glucose bins.
+2025-02-11 21:15:35,085 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:15:35,091 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:15:35,096 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:15:35,097 - INFO - BMI filling process completed.
+2025-02-11 21:15:35,098 - INFO - Starting encoding process...
+2025-02-11 21:15:35,103 - INFO - Encoded column: gender
+2025-02-11 21:15:35,106 - INFO - Encoded column: ever_married
+2025-02-11 21:15:35,107 - INFO - Encoded column: work_type
+2025-02-11 21:15:35,108 - INFO - Encoded column: Residence_type
+2025-02-11 21:15:35,114 - INFO - Encoded column: smoking_status
+2025-02-11 21:15:35,114 - INFO - Encoding process completed.
+2025-02-11 21:15:35,115 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:15:35,121 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:15:35,471 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:15:35,472 - INFO - Starting the data splitting process...
+2025-02-11 21:15:35,474 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:15:35,483 - INFO - Features successfully standardized.
+2025-02-11 21:15:35,487 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:15:35,488 - INFO - Starting PCA analysis...
+2025-02-11 21:15:35,491 - INFO - PCA analysis completed successfully.
+2025-02-11 21:15:35,493 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:15:35,615 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:15:35,616 - INFO - Explained variance by each principal component:
+2025-02-11 21:15:35,616 - INFO - PC1: 22.89%
+2025-02-11 21:15:35,616 - INFO - PC2: 11.93%
+2025-02-11 21:15:35,617 - INFO - PC3: 10.53%
+2025-02-11 21:15:35,617 - INFO - PC4: 10.06%
+2025-02-11 21:15:35,618 - INFO - PC5: 9.23%
+2025-02-11 21:15:35,618 - INFO - PC6: 9.02%
+2025-02-11 21:15:35,618 - INFO - PC7: 8.38%
+2025-02-11 21:15:35,619 - INFO - PC8: 7.77%
+2025-02-11 21:15:35,619 - INFO - PC9: 7.16%
+2025-02-11 21:15:35,619 - INFO - PC10: 3.03%
+2025-02-11 21:15:35,620 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:15:35,621 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:15:35,621 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:15:35,625 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:15:35,625 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:19:10,133 - INFO - Starting data cleaning process...
+2025-02-11 21:19:10,137 - INFO - Converted categorical columns to object type.
+2025-02-11 21:19:10,160 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:19:10,167 - INFO - Number of duplicate rows: 0
+2025-02-11 21:19:10,173 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:19:10,174 - INFO - Data cleaning process completed.
+2025-02-11 21:19:10,174 - INFO - Starting categorical data visualization...
+2025-02-11 21:19:10,175 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:19:10,335 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:19:10,337 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:19:10,436 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:19:10,438 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:19:10,552 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:19:10,554 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:19:10,665 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:19:10,667 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:19:10,802 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:19:10,804 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:19:10,926 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:19:10,929 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:19:11,046 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:19:11,048 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:19:11,158 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:19:11,159 - INFO - Categorical data visualization completed.
+2025-02-11 21:19:11,159 - INFO - Starting numerical data visualization...
+2025-02-11 21:19:11,305 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:19:11,444 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:19:11,578 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:19:11,578 - INFO - Numerical data visualization completed.
+2025-02-11 21:19:11,579 - INFO - Starting BMI filling process...
+2025-02-11 21:19:11,581 - INFO - Created 4 glucose bins.
+2025-02-11 21:19:11,585 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:19:11,590 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:19:11,592 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:19:11,594 - INFO - BMI filling process completed.
+2025-02-11 21:19:11,594 - INFO - Starting encoding process...
+2025-02-11 21:19:11,596 - INFO - Encoded column: gender
+2025-02-11 21:19:11,598 - INFO - Encoded column: ever_married
+2025-02-11 21:19:11,600 - INFO - Encoded column: work_type
+2025-02-11 21:19:11,602 - INFO - Encoded column: Residence_type
+2025-02-11 21:19:11,605 - INFO - Encoded column: smoking_status
+2025-02-11 21:19:11,605 - INFO - Encoding process completed.
+2025-02-11 21:19:11,605 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:19:11,608 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:19:11,926 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:19:11,927 - INFO - Starting the data splitting process...
+2025-02-11 21:19:11,928 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:19:11,937 - INFO - Features successfully standardized.
+2025-02-11 21:19:11,942 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:19:11,943 - INFO - Starting PCA analysis...
+2025-02-11 21:19:11,952 - INFO - PCA analysis completed successfully.
+2025-02-11 21:19:11,952 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:19:12,082 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:19:12,082 - INFO - Explained variance by each principal component:
+2025-02-11 21:19:12,083 - INFO - PC1: 22.89%
+2025-02-11 21:19:12,084 - INFO - PC2: 11.93%
+2025-02-11 21:19:12,084 - INFO - PC3: 10.53%
+2025-02-11 21:19:12,085 - INFO - PC4: 10.06%
+2025-02-11 21:19:12,085 - INFO - PC5: 9.23%
+2025-02-11 21:19:12,086 - INFO - PC6: 9.02%
+2025-02-11 21:19:12,086 - INFO - PC7: 8.38%
+2025-02-11 21:19:12,087 - INFO - PC8: 7.77%
+2025-02-11 21:19:12,087 - INFO - PC9: 7.16%
+2025-02-11 21:19:12,088 - INFO - PC10: 3.03%
+2025-02-11 21:19:12,089 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:19:12,092 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:19:12,093 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:19:12,099 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:19:12,099 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:19:12,102 - INFO - Starting the balancing process...
+2025-02-11 21:19:12,106 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:19:12,115 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:19:12,116 - INFO - Balancing completed successfully.
+2025-02-11 21:19:12,116 - INFO - Starting the data splitting process...
+2025-02-11 21:19:12,118 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:19:12,124 - INFO - Features successfully standardized.
+2025-02-11 21:19:12,126 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:20:16,916 - INFO - Starting data cleaning process...
+2025-02-11 21:20:16,919 - INFO - Converted categorical columns to object type.
+2025-02-11 21:20:16,932 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:20:16,939 - INFO - Number of duplicate rows: 0
+2025-02-11 21:20:16,945 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:20:16,945 - INFO - Data cleaning process completed.
+2025-02-11 21:20:16,946 - INFO - Starting categorical data visualization...
+2025-02-11 21:20:16,947 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:20:17,103 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:20:17,105 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:20:17,218 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:20:17,220 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:20:17,336 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:20:17,338 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:20:17,459 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:20:17,461 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:20:17,662 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:20:17,664 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:20:17,763 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:20:17,765 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:20:17,875 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:20:17,877 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:20:17,991 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:20:17,992 - INFO - Categorical data visualization completed.
+2025-02-11 21:20:17,992 - INFO - Starting numerical data visualization...
+2025-02-11 21:20:18,128 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:20:18,255 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:20:18,393 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:20:18,394 - INFO - Numerical data visualization completed.
+2025-02-11 21:20:18,394 - INFO - Starting BMI filling process...
+2025-02-11 21:20:18,397 - INFO - Created 4 glucose bins.
+2025-02-11 21:20:18,400 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:20:18,410 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:20:18,412 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:20:18,412 - INFO - BMI filling process completed.
+2025-02-11 21:20:18,413 - INFO - Starting encoding process...
+2025-02-11 21:20:18,415 - INFO - Encoded column: gender
+2025-02-11 21:20:18,418 - INFO - Encoded column: ever_married
+2025-02-11 21:20:18,420 - INFO - Encoded column: work_type
+2025-02-11 21:20:18,421 - INFO - Encoded column: Residence_type
+2025-02-11 21:20:18,423 - INFO - Encoded column: smoking_status
+2025-02-11 21:20:18,423 - INFO - Encoding process completed.
+2025-02-11 21:20:18,424 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:20:18,428 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:20:18,750 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:20:18,750 - INFO - Starting the data splitting process...
+2025-02-11 21:20:18,752 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:20:18,760 - INFO - Features successfully standardized.
+2025-02-11 21:20:18,763 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:20:18,763 - INFO - Starting PCA analysis...
+2025-02-11 21:20:18,765 - INFO - PCA analysis completed successfully.
+2025-02-11 21:20:18,766 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:20:18,891 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:20:18,891 - INFO - Explained variance by each principal component:
+2025-02-11 21:20:18,892 - INFO - PC1: 22.89%
+2025-02-11 21:20:18,892 - INFO - PC2: 11.93%
+2025-02-11 21:20:18,893 - INFO - PC3: 10.53%
+2025-02-11 21:20:18,894 - INFO - PC4: 10.06%
+2025-02-11 21:20:18,894 - INFO - PC5: 9.23%
+2025-02-11 21:20:18,895 - INFO - PC6: 9.02%
+2025-02-11 21:20:18,895 - INFO - PC7: 8.38%
+2025-02-11 21:20:18,896 - INFO - PC8: 7.77%
+2025-02-11 21:20:18,897 - INFO - PC9: 7.16%
+2025-02-11 21:20:18,900 - INFO - PC10: 3.03%
+2025-02-11 21:20:18,900 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:20:18,903 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:20:18,904 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:20:18,908 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:20:18,909 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:20:18,914 - INFO - Starting the balancing process...
+2025-02-11 21:20:18,917 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:20:18,926 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:20:18,927 - INFO - Balancing completed successfully.
+2025-02-11 21:20:18,927 - INFO - Starting the data splitting process...
+2025-02-11 21:20:18,931 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:20:18,934 - INFO - Features successfully standardized.
+2025-02-11 21:20:18,936 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:20:18,936 - INFO - Starting PCA analysis...
+2025-02-11 21:20:18,939 - INFO - PCA analysis completed successfully.
+2025-02-11 21:21:04,519 - INFO - Starting data cleaning process...
+2025-02-11 21:21:04,524 - INFO - Converted categorical columns to object type.
+2025-02-11 21:21:04,538 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:21:04,546 - INFO - Number of duplicate rows: 0
+2025-02-11 21:21:04,561 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:21:04,563 - INFO - Data cleaning process completed.
+2025-02-11 21:21:04,563 - INFO - Starting categorical data visualization...
+2025-02-11 21:21:04,569 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:21:04,751 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:21:04,753 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:21:04,853 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:21:04,855 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:21:04,960 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:21:04,962 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:21:05,070 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:21:05,072 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:21:05,202 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:21:05,204 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:21:05,312 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:21:05,314 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:21:05,427 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:21:05,429 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:21:05,535 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:21:05,536 - INFO - Categorical data visualization completed.
+2025-02-11 21:21:05,536 - INFO - Starting numerical data visualization...
+2025-02-11 21:21:05,687 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:21:05,822 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:21:05,955 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:21:05,956 - INFO - Numerical data visualization completed.
+2025-02-11 21:21:05,956 - INFO - Starting BMI filling process...
+2025-02-11 21:21:05,959 - INFO - Created 4 glucose bins.
+2025-02-11 21:21:05,962 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:21:05,969 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:21:05,972 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:21:05,973 - INFO - BMI filling process completed.
+2025-02-11 21:21:05,973 - INFO - Starting encoding process...
+2025-02-11 21:21:05,976 - INFO - Encoded column: gender
+2025-02-11 21:21:05,978 - INFO - Encoded column: ever_married
+2025-02-11 21:21:05,981 - INFO - Encoded column: work_type
+2025-02-11 21:21:05,983 - INFO - Encoded column: Residence_type
+2025-02-11 21:21:05,985 - INFO - Encoded column: smoking_status
+2025-02-11 21:21:05,985 - INFO - Encoding process completed.
+2025-02-11 21:21:05,986 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:21:05,993 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:21:06,320 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:21:06,320 - INFO - Starting the data splitting process...
+2025-02-11 21:21:06,322 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:21:06,330 - INFO - Features successfully standardized.
+2025-02-11 21:21:06,336 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:21:06,337 - INFO - Starting PCA analysis...
+2025-02-11 21:21:06,338 - INFO - PCA analysis completed successfully.
+2025-02-11 21:21:06,343 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:21:06,467 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:21:06,468 - INFO - Explained variance by each principal component:
+2025-02-11 21:21:06,468 - INFO - PC1: 22.89%
+2025-02-11 21:21:06,468 - INFO - PC2: 11.93%
+2025-02-11 21:21:06,469 - INFO - PC3: 10.53%
+2025-02-11 21:21:06,470 - INFO - PC4: 10.06%
+2025-02-11 21:21:06,470 - INFO - PC5: 9.23%
+2025-02-11 21:21:06,470 - INFO - PC6: 9.02%
+2025-02-11 21:21:06,471 - INFO - PC7: 8.38%
+2025-02-11 21:21:06,471 - INFO - PC8: 7.77%
+2025-02-11 21:21:06,471 - INFO - PC9: 7.16%
+2025-02-11 21:21:06,472 - INFO - PC10: 3.03%
+2025-02-11 21:21:06,472 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:21:06,475 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:21:06,476 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:21:06,478 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:21:06,479 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:21:06,483 - INFO - Starting the balancing process...
+2025-02-11 21:21:06,484 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:21:06,492 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:21:06,492 - INFO - Balancing completed successfully.
+2025-02-11 21:21:06,493 - INFO - Starting the data splitting process...
+2025-02-11 21:21:06,494 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:21:06,499 - INFO - Features successfully standardized.
+2025-02-11 21:21:06,501 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:21:06,501 - INFO - Starting PCA analysis...
+2025-02-11 21:21:06,502 - INFO - PCA analysis completed successfully.
+2025-02-11 21:21:06,503 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:21:06,504 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:21:06,506 - INFO - age                  0.49
+ever_married         0.46
+bmi                  0.40
+avg_glucose_level    0.37
+work_type            0.28
+hypertension         0.28
+heart_disease        0.24
+residence_type       0.13
+smoking_status       0.12
+gender               0.05
+Name: PC1, dtype: float64
+2025-02-11 21:21:06,509 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:21:06,510 - INFO - heart_disease        0.51
+gender               0.50
+smoking_status       0.33
+avg_glucose_level    0.30
+bmi                  0.28
+work_type            0.27
+residence_type       0.26
+ever_married         0.24
+hypertension         0.08
+age                  0.02
+Name: PC2, dtype: float64
+2025-02-11 21:31:46,983 - INFO - Starting data cleaning process...
+2025-02-11 21:31:46,988 - INFO - Converted categorical columns to object type.
+2025-02-11 21:31:47,005 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:31:47,010 - INFO - Number of duplicate rows: 0
+2025-02-11 21:31:47,016 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:31:47,016 - INFO - Data cleaning process completed.
+2025-02-11 21:31:47,017 - INFO - Starting categorical data visualization...
+2025-02-11 21:31:47,020 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:31:47,191 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:31:47,193 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:31:47,293 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:31:47,295 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:31:47,416 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:31:47,418 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:31:47,536 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:31:47,538 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:31:47,672 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:31:47,674 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:31:47,802 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:31:47,804 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:31:47,934 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:31:47,936 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:31:48,042 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:31:48,043 - INFO - Categorical data visualization completed.
+2025-02-11 21:31:48,044 - INFO - Starting numerical data visualization...
+2025-02-11 21:31:48,287 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:31:48,436 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:31:48,561 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:31:48,561 - INFO - Numerical data visualization completed.
+2025-02-11 21:31:48,562 - INFO - Starting BMI filling process...
+2025-02-11 21:31:48,564 - INFO - Created 4 glucose bins.
+2025-02-11 21:31:48,571 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:31:48,578 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:31:48,581 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:31:48,581 - INFO - BMI filling process completed.
+2025-02-11 21:31:48,584 - INFO - Starting encoding process...
+2025-02-11 21:31:48,586 - INFO - Encoded column: gender
+2025-02-11 21:31:48,588 - INFO - Encoded column: ever_married
+2025-02-11 21:31:48,589 - INFO - Encoded column: work_type
+2025-02-11 21:31:48,596 - INFO - Encoded column: Residence_type
+2025-02-11 21:31:48,601 - INFO - Encoded column: smoking_status
+2025-02-11 21:31:48,601 - INFO - Encoding process completed.
+2025-02-11 21:31:48,602 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:31:48,605 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:31:48,945 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:31:48,946 - INFO - Starting the data splitting process...
+2025-02-11 21:31:48,947 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:31:48,956 - INFO - Features successfully standardized.
+2025-02-11 21:31:48,959 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:31:48,960 - INFO - Starting PCA analysis...
+2025-02-11 21:31:48,962 - INFO - PCA analysis completed successfully.
+2025-02-11 21:31:48,962 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:31:49,083 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:31:49,083 - INFO - Explained variance by each principal component:
+2025-02-11 21:31:49,084 - INFO - PC1: 22.89%
+2025-02-11 21:31:49,084 - INFO - PC2: 11.93%
+2025-02-11 21:31:49,084 - INFO - PC3: 10.53%
+2025-02-11 21:31:49,085 - INFO - PC4: 10.06%
+2025-02-11 21:31:49,085 - INFO - PC5: 9.23%
+2025-02-11 21:31:49,085 - INFO - PC6: 9.02%
+2025-02-11 21:31:49,086 - INFO - PC7: 8.38%
+2025-02-11 21:31:49,086 - INFO - PC8: 7.77%
+2025-02-11 21:31:49,087 - INFO - PC9: 7.16%
+2025-02-11 21:31:49,087 - INFO - PC10: 3.03%
+2025-02-11 21:31:49,087 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:31:49,088 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:31:49,088 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:31:49,092 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:31:49,093 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:31:49,095 - INFO - Starting the balancing process...
+2025-02-11 21:31:49,098 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:31:49,106 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:31:49,107 - INFO - Balancing completed successfully.
+2025-02-11 21:31:49,107 - INFO - Starting the data splitting process...
+2025-02-11 21:31:49,108 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:31:49,112 - INFO - Features successfully standardized.
+2025-02-11 21:31:49,115 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:31:49,116 - INFO - Starting PCA analysis...
+2025-02-11 21:31:49,117 - INFO - PCA analysis completed successfully.
+2025-02-11 21:31:49,118 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:31:49,119 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:31:49,119 - INFO - age                  0.49
+ever_married         0.46
+bmi                  0.40
+avg_glucose_level    0.37
+work_type            0.28
+hypertension         0.28
+heart_disease        0.24
+residence_type       0.13
+smoking_status       0.12
+gender               0.05
+Name: PC1, dtype: float64
+2025-02-11 21:31:49,122 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:31:49,124 - INFO - heart_disease        0.51
+gender               0.50
+smoking_status       0.33
+avg_glucose_level    0.30
+bmi                  0.28
+work_type            0.27
+residence_type       0.26
+ever_married         0.24
+hypertension         0.08
+age                  0.02
+Name: PC2, dtype: float64
+2025-02-11 21:31:49,126 - INFO - Starting grid search for model selection...
+2025-02-11 21:31:49,126 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:31:49,128 - ERROR - An error occurred during grid search: Found input variables with inconsistent numbers of samples: [348, 150]
+2025-02-11 21:46:39,240 - INFO - Starting data cleaning process...
+2025-02-11 21:46:39,244 - INFO - Converted categorical columns to object type.
+2025-02-11 21:46:39,265 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:46:39,271 - INFO - Number of duplicate rows: 0
+2025-02-11 21:46:39,276 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:46:39,276 - INFO - Data cleaning process completed.
+2025-02-11 21:46:39,277 - INFO - Starting categorical data visualization...
+2025-02-11 21:46:39,279 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:46:39,433 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:46:39,435 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:46:39,539 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:46:39,541 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:46:39,652 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:46:39,655 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:46:39,770 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:46:39,772 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:46:39,898 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:46:39,901 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:46:40,010 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:46:40,012 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:46:40,126 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:46:40,128 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:46:40,225 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:46:40,226 - INFO - Categorical data visualization completed.
+2025-02-11 21:46:40,226 - INFO - Starting numerical data visualization...
+2025-02-11 21:46:40,362 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:46:40,493 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:46:40,638 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:46:40,639 - INFO - Numerical data visualization completed.
+2025-02-11 21:46:40,639 - INFO - Starting BMI filling process...
+2025-02-11 21:46:40,642 - INFO - Created 4 glucose bins.
+2025-02-11 21:46:40,645 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:46:40,651 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:46:40,652 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:46:40,653 - INFO - BMI filling process completed.
+2025-02-11 21:46:40,654 - INFO - Starting encoding process...
+2025-02-11 21:46:40,656 - INFO - Encoded column: gender
+2025-02-11 21:46:40,658 - INFO - Encoded column: ever_married
+2025-02-11 21:46:40,659 - INFO - Encoded column: work_type
+2025-02-11 21:46:40,661 - INFO - Encoded column: Residence_type
+2025-02-11 21:46:40,663 - INFO - Encoded column: smoking_status
+2025-02-11 21:46:40,664 - INFO - Encoding process completed.
+2025-02-11 21:46:40,665 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:46:40,668 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:46:40,998 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:46:40,999 - INFO - Starting the data splitting process...
+2025-02-11 21:46:41,000 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:46:41,012 - INFO - Features successfully standardized.
+2025-02-11 21:46:41,029 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:46:41,030 - INFO - Starting PCA analysis...
+2025-02-11 21:46:41,034 - INFO - PCA analysis completed successfully.
+2025-02-11 21:46:41,034 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:46:41,162 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:46:41,163 - INFO - Explained variance by each principal component:
+2025-02-11 21:46:41,163 - INFO - PC1: 22.89%
+2025-02-11 21:46:41,164 - INFO - PC2: 11.93%
+2025-02-11 21:46:41,164 - INFO - PC3: 10.53%
+2025-02-11 21:46:41,165 - INFO - PC4: 10.06%
+2025-02-11 21:46:41,165 - INFO - PC5: 9.23%
+2025-02-11 21:46:41,165 - INFO - PC6: 9.02%
+2025-02-11 21:46:41,166 - INFO - PC7: 8.38%
+2025-02-11 21:46:41,166 - INFO - PC8: 7.77%
+2025-02-11 21:46:41,166 - INFO - PC9: 7.16%
+2025-02-11 21:46:41,167 - INFO - PC10: 3.03%
+2025-02-11 21:46:41,167 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:46:41,168 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:46:41,169 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:46:41,173 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:46:41,173 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:46:41,176 - INFO - Starting the balancing process...
+2025-02-11 21:46:41,178 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:46:41,186 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:46:41,187 - INFO - Balancing completed successfully.
+2025-02-11 21:46:41,188 - INFO - Starting the data splitting process...
+2025-02-11 21:46:41,189 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:46:41,193 - INFO - Features successfully standardized.
+2025-02-11 21:46:41,196 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:46:41,197 - INFO - Starting PCA analysis...
+2025-02-11 21:46:41,198 - INFO - PCA analysis completed successfully.
+2025-02-11 21:46:41,199 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:46:41,200 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:46:41,200 - INFO - age                  0.49
+ever_married         0.46
+bmi                  0.40
+avg_glucose_level    0.37
+work_type            0.28
+hypertension         0.28
+heart_disease        0.24
+residence_type       0.13
+smoking_status       0.12
+gender               0.05
+Name: PC1, dtype: float64
+2025-02-11 21:46:41,204 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:46:41,204 - INFO - heart_disease        0.51
+gender               0.50
+smoking_status       0.33
+avg_glucose_level    0.30
+bmi                  0.28
+work_type            0.27
+residence_type       0.26
+ever_married         0.24
+hypertension         0.08
+age                  0.02
+Name: PC2, dtype: float64
+2025-02-11 21:46:41,206 - INFO - Starting grid search for model selection...
+2025-02-11 21:46:41,207 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:46:45,537 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-11 21:46:45,537 - INFO - Starting model performance evaluation...
+2025-02-11 21:46:45,548 - INFO - Precision: 0.7013
+2025-02-11 21:46:45,549 - INFO - Recall: 0.6585
+2025-02-11 21:46:45,550 - INFO - F1 Score: 0.6792
+2025-02-11 21:46:45,550 - INFO - Accuracy: 0.6600
+2025-02-11 21:46:45,551 - INFO - Miss Rate: 0.3415
+2025-02-11 21:46:45,551 - INFO - Fallout Rate: 0.3382
+2025-02-11 21:46:45,552 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:46:45,552 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:46:57,814 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}
+2025-02-11 21:46:57,814 - INFO - Starting model performance evaluation...
+2025-02-11 21:46:57,825 - INFO - Precision: 0.7500
+2025-02-11 21:46:57,826 - INFO - Recall: 0.7683
+2025-02-11 21:46:57,826 - INFO - F1 Score: 0.7590
+2025-02-11 21:46:57,827 - INFO - Accuracy: 0.7333
+2025-02-11 21:46:57,827 - INFO - Miss Rate: 0.2317
+2025-02-11 21:46:57,827 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:46:57,828 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:46:57,828 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:47:08,485 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-11 21:47:08,485 - INFO - Starting model performance evaluation...
+2025-02-11 21:47:08,493 - INFO - Precision: 0.7500
+2025-02-11 21:47:08,493 - INFO - Recall: 0.7683
+2025-02-11 21:47:08,493 - INFO - F1 Score: 0.7590
+2025-02-11 21:47:08,495 - INFO - Accuracy: 0.7333
+2025-02-11 21:47:08,496 - INFO - Miss Rate: 0.2317
+2025-02-11 21:47:08,497 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:47:08,497 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:47:08,498 - INFO - Performing grid search for SVM...
+2025-02-11 21:47:08,702 - INFO - SVM's best parameters: {'C': 0.1, 'kernel': 'linear'}
+2025-02-11 21:47:08,703 - INFO - Starting model performance evaluation...
+2025-02-11 21:47:08,714 - INFO - Precision: 0.7500
+2025-02-11 21:47:08,715 - INFO - Recall: 0.7683
+2025-02-11 21:47:08,716 - INFO - F1 Score: 0.7590
+2025-02-11 21:47:08,716 - INFO - Accuracy: 0.7333
+2025-02-11 21:47:08,717 - INFO - Miss Rate: 0.2317
+2025-02-11 21:47:08,718 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:47:08,718 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:47:08,719 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:47:45,005 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 50}
+2025-02-11 21:47:45,006 - INFO - Starting model performance evaluation...
+2025-02-11 21:47:45,013 - INFO - Precision: 0.7468
+2025-02-11 21:47:45,014 - INFO - Recall: 0.7195
+2025-02-11 21:47:45,014 - INFO - F1 Score: 0.7329
+2025-02-11 21:47:45,015 - INFO - Accuracy: 0.7133
+2025-02-11 21:47:45,016 - INFO - Miss Rate: 0.2805
+2025-02-11 21:47:45,016 - INFO - Fallout Rate: 0.2941
+2025-02-11 21:47:45,017 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:47:45,019 - INFO - Grid search completed successfully.
+2025-02-11 21:47:45,022 - INFO - Successfully selected the first 2 principal components.
+2025-02-11 21:47:45,022 - INFO - Starting grid search for model selection...
+2025-02-11 21:47:45,023 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:47:45,316 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-11 21:47:45,317 - INFO - Starting model performance evaluation...
+2025-02-11 21:47:45,333 - INFO - Precision: 0.6349
+2025-02-11 21:47:45,333 - INFO - Recall: 0.4878
+2025-02-11 21:47:45,334 - INFO - F1 Score: 0.5517
+2025-02-11 21:47:45,334 - INFO - Accuracy: 0.5667
+2025-02-11 21:47:45,335 - INFO - Miss Rate: 0.5122
+2025-02-11 21:47:45,335 - INFO - Fallout Rate: 0.3382
+2025-02-11 21:47:45,336 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:47:45,337 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:47:57,276 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+2025-02-11 21:47:57,277 - INFO - Starting model performance evaluation...
+2025-02-11 21:47:57,285 - INFO - Precision: 0.7067
+2025-02-11 21:47:57,285 - INFO - Recall: 0.6463
+2025-02-11 21:47:57,285 - INFO - F1 Score: 0.6752
+2025-02-11 21:47:57,287 - INFO - Accuracy: 0.6600
+2025-02-11 21:47:57,288 - INFO - Miss Rate: 0.3537
+2025-02-11 21:47:57,289 - INFO - Fallout Rate: 0.3235
+2025-02-11 21:47:57,289 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:47:57,290 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:48:01,556 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-11 21:48:01,557 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:01,565 - INFO - Precision: 0.7397
+2025-02-11 21:48:01,566 - INFO - Recall: 0.6585
+2025-02-11 21:48:01,566 - INFO - F1 Score: 0.6968
+2025-02-11 21:48:01,567 - INFO - Accuracy: 0.6867
+2025-02-11 21:48:01,567 - INFO - Miss Rate: 0.3415
+2025-02-11 21:48:01,568 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:48:01,568 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:01,569 - INFO - Performing grid search for SVM...
+2025-02-11 21:48:01,797 - INFO - SVM's best parameters: {'C': 10, 'kernel': 'poly'}
+2025-02-11 21:48:01,797 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:01,805 - INFO - Precision: 0.6374
+2025-02-11 21:48:01,806 - INFO - Recall: 0.7073
+2025-02-11 21:48:01,806 - INFO - F1 Score: 0.6705
+2025-02-11 21:48:01,806 - INFO - Accuracy: 0.6200
+2025-02-11 21:48:01,806 - INFO - Miss Rate: 0.2927
+2025-02-11 21:48:01,807 - INFO - Fallout Rate: 0.4853
+2025-02-11 21:48:01,807 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:01,808 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:48:31,694 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-11 21:48:31,694 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:31,702 - INFO - Precision: 0.7101
+2025-02-11 21:48:31,704 - INFO - Recall: 0.5976
+2025-02-11 21:48:31,705 - INFO - F1 Score: 0.6490
+2025-02-11 21:48:31,706 - INFO - Accuracy: 0.6467
+2025-02-11 21:48:31,707 - INFO - Miss Rate: 0.4024
+2025-02-11 21:48:31,707 - INFO - Fallout Rate: 0.2941
+2025-02-11 21:48:31,707 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:31,708 - INFO - Grid search completed successfully.
+2025-02-11 21:48:31,709 - INFO - Successfully selected the first 8 principal components.
+2025-02-11 21:48:31,713 - INFO - Starting grid search for model selection...
+2025-02-11 21:48:31,713 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:48:32,004 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}
+2025-02-11 21:48:32,005 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:32,020 - INFO - Precision: 0.6087
+2025-02-11 21:48:32,021 - INFO - Recall: 0.5122
+2025-02-11 21:48:32,022 - INFO - F1 Score: 0.5563
+2025-02-11 21:48:32,022 - INFO - Accuracy: 0.5533
+2025-02-11 21:48:32,022 - INFO - Miss Rate: 0.4878
+2025-02-11 21:48:32,023 - INFO - Fallout Rate: 0.3971
+2025-02-11 21:48:32,023 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:32,024 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:48:44,805 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-11 21:48:44,806 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:44,816 - INFO - Precision: 0.7625
+2025-02-11 21:48:44,817 - INFO - Recall: 0.7439
+2025-02-11 21:48:44,818 - INFO - F1 Score: 0.7531
+2025-02-11 21:48:44,818 - INFO - Accuracy: 0.7333
+2025-02-11 21:48:44,819 - INFO - Miss Rate: 0.2561
+2025-02-11 21:48:44,820 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:48:44,820 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:44,822 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:48:54,713 - INFO - Neural Network's best parameters: {'activation': 'tanh', 'hidden_layer_sizes': (50, 50), 'solver': 'sgd'}
+2025-02-11 21:48:54,714 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:54,721 - INFO - Precision: 0.7683
+2025-02-11 21:48:54,721 - INFO - Recall: 0.7683
+2025-02-11 21:48:54,722 - INFO - F1 Score: 0.7683
+2025-02-11 21:48:54,723 - INFO - Accuracy: 0.7467
+2025-02-11 21:48:54,723 - INFO - Miss Rate: 0.2317
+2025-02-11 21:48:54,724 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:48:54,725 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:54,726 - INFO - Performing grid search for SVM...
+2025-02-11 21:48:54,972 - INFO - SVM's best parameters: {'C': 1, 'kernel': 'linear'}
+2025-02-11 21:48:54,973 - INFO - Starting model performance evaluation...
+2025-02-11 21:48:54,990 - INFO - Precision: 0.7470
+2025-02-11 21:48:54,991 - INFO - Recall: 0.7561
+2025-02-11 21:48:54,992 - INFO - F1 Score: 0.7515
+2025-02-11 21:48:54,994 - INFO - Accuracy: 0.7267
+2025-02-11 21:48:54,994 - INFO - Miss Rate: 0.2439
+2025-02-11 21:48:54,995 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:48:54,996 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:48:54,997 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:49:43,224 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 200}
+2025-02-11 21:49:43,225 - INFO - Starting model performance evaluation...
+2025-02-11 21:49:43,232 - INFO - Precision: 0.7176
+2025-02-11 21:49:43,232 - INFO - Recall: 0.7439
+2025-02-11 21:49:43,233 - INFO - F1 Score: 0.7305
+2025-02-11 21:49:43,234 - INFO - Accuracy: 0.7000
+2025-02-11 21:49:43,234 - INFO - Miss Rate: 0.2561
+2025-02-11 21:49:43,235 - INFO - Fallout Rate: 0.3529
+2025-02-11 21:49:43,235 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:49:43,236 - INFO - Grid search completed successfully.
+2025-02-11 21:53:03,321 - INFO - Starting data cleaning process...
+2025-02-11 21:53:03,324 - INFO - Converted categorical columns to object type.
+2025-02-11 21:53:03,336 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-11 21:53:03,343 - INFO - Number of duplicate rows: 0
+2025-02-11 21:53:03,350 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-11 21:53:03,351 - INFO - Data cleaning process completed.
+2025-02-11 21:53:03,351 - INFO - Starting categorical data visualization...
+2025-02-11 21:53:03,355 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-11 21:53:03,529 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-11 21:53:03,531 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-11 21:53:03,638 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-11 21:53:03,639 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-11 21:53:03,745 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-11 21:53:03,746 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-11 21:53:03,882 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-11 21:53:03,884 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-11 21:53:04,010 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-11 21:53:04,011 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-11 21:53:04,140 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-11 21:53:04,142 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-11 21:53:04,253 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-11 21:53:04,255 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:53:04,362 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-11 21:53:04,363 - INFO - Categorical data visualization completed.
+2025-02-11 21:53:04,363 - INFO - Starting numerical data visualization...
+2025-02-11 21:53:04,503 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-11 21:53:04,638 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-11 21:53:04,771 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-11 21:53:04,772 - INFO - Numerical data visualization completed.
+2025-02-11 21:53:04,772 - INFO - Starting BMI filling process...
+2025-02-11 21:53:04,775 - INFO - Created 4 glucose bins.
+2025-02-11 21:53:04,778 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-11 21:53:04,785 - INFO - Filled 201 missing BMI values.
+2025-02-11 21:53:04,789 - INFO - Dropped temporary columns used for grouping.
+2025-02-11 21:53:04,789 - INFO - BMI filling process completed.
+2025-02-11 21:53:04,790 - INFO - Starting encoding process...
+2025-02-11 21:53:04,792 - INFO - Encoded column: gender
+2025-02-11 21:53:04,793 - INFO - Encoded column: ever_married
+2025-02-11 21:53:04,798 - INFO - Encoded column: work_type
+2025-02-11 21:53:04,800 - INFO - Encoded column: Residence_type
+2025-02-11 21:53:04,802 - INFO - Encoded column: smoking_status
+2025-02-11 21:53:04,805 - INFO - Encoding process completed.
+2025-02-11 21:53:04,805 - INFO - Calculating pearson correlation matrix...
+2025-02-11 21:53:04,808 - INFO - Correlation matrix calculated successfully.
+2025-02-11 21:53:05,128 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-11 21:53:05,129 - INFO - Starting the data splitting process...
+2025-02-11 21:53:05,131 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:53:05,143 - INFO - Features successfully standardized.
+2025-02-11 21:53:05,147 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:53:05,148 - INFO - Starting PCA analysis...
+2025-02-11 21:53:05,150 - INFO - PCA analysis completed successfully.
+2025-02-11 21:53:05,150 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-11 21:53:05,276 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-11 21:53:05,277 - INFO - Explained variance by each principal component:
+2025-02-11 21:53:05,277 - INFO - PC1: 22.89%
+2025-02-11 21:53:05,278 - INFO - PC2: 11.93%
+2025-02-11 21:53:05,278 - INFO - PC3: 10.53%
+2025-02-11 21:53:05,279 - INFO - PC4: 10.06%
+2025-02-11 21:53:05,279 - INFO - PC5: 9.23%
+2025-02-11 21:53:05,279 - INFO - PC6: 9.02%
+2025-02-11 21:53:05,280 - INFO - PC7: 8.38%
+2025-02-11 21:53:05,280 - INFO - PC8: 7.77%
+2025-02-11 21:53:05,280 - INFO - PC9: 7.16%
+2025-02-11 21:53:05,281 - INFO - PC10: 3.03%
+2025-02-11 21:53:05,281 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:53:05,285 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:53:05,286 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-11 21:53:05,288 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:53:05,288 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-11 21:53:05,292 - INFO - Starting the balancing process...
+2025-02-11 21:53:05,295 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-11 21:53:05,303 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-11 21:53:05,304 - INFO - Balancing completed successfully.
+2025-02-11 21:53:05,306 - INFO - Starting the data splitting process...
+2025-02-11 21:53:05,308 - INFO - Data successfully split into features and outcome.
+2025-02-11 21:53:05,313 - INFO - Features successfully standardized.
+2025-02-11 21:53:05,315 - INFO - Data successfully split into training and testing sets.
+2025-02-11 21:53:05,316 - INFO - Starting PCA analysis...
+2025-02-11 21:53:05,317 - INFO - PCA analysis completed successfully.
+2025-02-11 21:53:05,318 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-11 21:53:05,319 - INFO - Sorted Contributions of Features to PC1:
+2025-02-11 21:53:05,320 - INFO - age                  0.49
+ever_married         0.46
+bmi                  0.40
+avg_glucose_level    0.37
+work_type            0.28
+hypertension         0.28
+heart_disease        0.24
+residence_type       0.13
+smoking_status       0.12
+gender               0.05
+Name: PC1, dtype: float64
+2025-02-11 21:53:05,322 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-11 21:53:05,322 - INFO - heart_disease        0.51
+gender               0.50
+smoking_status       0.33
+avg_glucose_level    0.30
+bmi                  0.28
+work_type            0.27
+residence_type       0.26
+ever_married         0.24
+hypertension         0.08
+age                  0.02
+Name: PC2, dtype: float64
+2025-02-11 21:53:05,325 - INFO - Starting grid search for model selection...
+2025-02-11 21:53:05,326 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:53:09,281 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-11 21:53:09,281 - INFO - Starting model performance evaluation...
+2025-02-11 21:53:09,295 - INFO - Precision: 0.7013
+2025-02-11 21:53:09,296 - INFO - Recall: 0.6585
+2025-02-11 21:53:09,297 - INFO - F1 Score: 0.6792
+2025-02-11 21:53:09,297 - INFO - Accuracy: 0.6600
+2025-02-11 21:53:09,297 - INFO - Miss Rate: 0.3415
+2025-02-11 21:53:09,298 - INFO - Fallout Rate: 0.3382
+2025-02-11 21:53:09,300 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:53:09,300 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:53:59,343 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}
+2025-02-11 21:53:59,344 - INFO - Starting model performance evaluation...
+2025-02-11 21:53:59,358 - INFO - Precision: 0.7500
+2025-02-11 21:53:59,358 - INFO - Recall: 0.7683
+2025-02-11 21:53:59,359 - INFO - F1 Score: 0.7590
+2025-02-11 21:53:59,361 - INFO - Accuracy: 0.7333
+2025-02-11 21:53:59,369 - INFO - Miss Rate: 0.2317
+2025-02-11 21:53:59,371 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:53:59,372 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:53:59,372 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:54:23,254 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-11 21:54:23,255 - INFO - Starting model performance evaluation...
+2025-02-11 21:54:23,262 - INFO - Precision: 0.7500
+2025-02-11 21:54:23,263 - INFO - Recall: 0.7683
+2025-02-11 21:54:23,263 - INFO - F1 Score: 0.7590
+2025-02-11 21:54:23,264 - INFO - Accuracy: 0.7333
+2025-02-11 21:54:23,264 - INFO - Miss Rate: 0.2317
+2025-02-11 21:54:23,265 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:54:23,265 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:54:23,266 - INFO - Performing grid search for SVM...
+2025-02-11 21:54:23,470 - INFO - SVM's best parameters: {'C': 0.1, 'kernel': 'linear'}
+2025-02-11 21:54:23,470 - INFO - Starting model performance evaluation...
+2025-02-11 21:54:23,489 - INFO - Precision: 0.7500
+2025-02-11 21:54:23,490 - INFO - Recall: 0.7683
+2025-02-11 21:54:23,491 - INFO - F1 Score: 0.7590
+2025-02-11 21:54:23,492 - INFO - Accuracy: 0.7333
+2025-02-11 21:54:23,493 - INFO - Miss Rate: 0.2317
+2025-02-11 21:54:23,493 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:54:23,494 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:54:23,495 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:54:59,813 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 50}
+2025-02-11 21:54:59,814 - INFO - Starting model performance evaluation...
+2025-02-11 21:54:59,820 - INFO - Precision: 0.7468
+2025-02-11 21:54:59,821 - INFO - Recall: 0.7195
+2025-02-11 21:54:59,821 - INFO - F1 Score: 0.7329
+2025-02-11 21:54:59,821 - INFO - Accuracy: 0.7133
+2025-02-11 21:54:59,822 - INFO - Miss Rate: 0.2805
+2025-02-11 21:54:59,822 - INFO - Fallout Rate: 0.2941
+2025-02-11 21:54:59,823 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:54:59,824 - INFO - Grid search completed successfully.
+2025-02-11 21:54:59,824 - INFO - Successfully selected the first 2 principal components.
+2025-02-11 21:54:59,825 - INFO - Starting grid search for model selection...
+2025-02-11 21:54:59,825 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:55:00,061 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-11 21:55:00,061 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:00,069 - INFO - Precision: 0.6349
+2025-02-11 21:55:00,070 - INFO - Recall: 0.4878
+2025-02-11 21:55:00,070 - INFO - F1 Score: 0.5517
+2025-02-11 21:55:00,070 - INFO - Accuracy: 0.5667
+2025-02-11 21:55:00,070 - INFO - Miss Rate: 0.5122
+2025-02-11 21:55:00,071 - INFO - Fallout Rate: 0.3382
+2025-02-11 21:55:00,071 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:00,072 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:55:12,281 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+2025-02-11 21:55:12,282 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:12,289 - INFO - Precision: 0.7067
+2025-02-11 21:55:12,290 - INFO - Recall: 0.6463
+2025-02-11 21:55:12,292 - INFO - F1 Score: 0.6752
+2025-02-11 21:55:12,293 - INFO - Accuracy: 0.6600
+2025-02-11 21:55:12,293 - INFO - Miss Rate: 0.3537
+2025-02-11 21:55:12,293 - INFO - Fallout Rate: 0.3235
+2025-02-11 21:55:12,294 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:12,294 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:55:16,518 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-11 21:55:16,519 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:16,526 - INFO - Precision: 0.7397
+2025-02-11 21:55:16,526 - INFO - Recall: 0.6585
+2025-02-11 21:55:16,527 - INFO - F1 Score: 0.6968
+2025-02-11 21:55:16,528 - INFO - Accuracy: 0.6867
+2025-02-11 21:55:16,528 - INFO - Miss Rate: 0.3415
+2025-02-11 21:55:16,529 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:55:16,529 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:16,530 - INFO - Performing grid search for SVM...
+2025-02-11 21:55:16,753 - INFO - SVM's best parameters: {'C': 10, 'kernel': 'poly'}
+2025-02-11 21:55:16,754 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:16,771 - INFO - Precision: 0.6374
+2025-02-11 21:55:16,772 - INFO - Recall: 0.7073
+2025-02-11 21:55:16,774 - INFO - F1 Score: 0.6705
+2025-02-11 21:55:16,775 - INFO - Accuracy: 0.6200
+2025-02-11 21:55:16,776 - INFO - Miss Rate: 0.2927
+2025-02-11 21:55:16,777 - INFO - Fallout Rate: 0.4853
+2025-02-11 21:55:16,778 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:16,779 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:55:46,376 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-11 21:55:46,377 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:46,387 - INFO - Precision: 0.7101
+2025-02-11 21:55:46,388 - INFO - Recall: 0.5976
+2025-02-11 21:55:46,388 - INFO - F1 Score: 0.6490
+2025-02-11 21:55:46,389 - INFO - Accuracy: 0.6467
+2025-02-11 21:55:46,389 - INFO - Miss Rate: 0.4024
+2025-02-11 21:55:46,390 - INFO - Fallout Rate: 0.2941
+2025-02-11 21:55:46,391 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:46,396 - INFO - Grid search completed successfully.
+2025-02-11 21:55:46,397 - INFO - Successfully selected the first 8 principal components.
+2025-02-11 21:55:46,398 - INFO - Starting grid search for model selection...
+2025-02-11 21:55:46,398 - INFO - Performing grid search for Decision Tree...
+2025-02-11 21:55:46,696 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}
+2025-02-11 21:55:46,697 - INFO - Starting model performance evaluation...
+2025-02-11 21:55:46,713 - INFO - Precision: 0.6087
+2025-02-11 21:55:46,714 - INFO - Recall: 0.5122
+2025-02-11 21:55:46,714 - INFO - F1 Score: 0.5563
+2025-02-11 21:55:46,715 - INFO - Accuracy: 0.5533
+2025-02-11 21:55:46,715 - INFO - Miss Rate: 0.4878
+2025-02-11 21:55:46,716 - INFO - Fallout Rate: 0.3971
+2025-02-11 21:55:46,716 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:55:46,717 - INFO - Performing grid search for Random Forest...
+2025-02-11 21:55:59,993 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-11 21:55:59,994 - INFO - Starting model performance evaluation...
+2025-02-11 21:56:00,001 - INFO - Precision: 0.7625
+2025-02-11 21:56:00,002 - INFO - Recall: 0.7439
+2025-02-11 21:56:00,002 - INFO - F1 Score: 0.7531
+2025-02-11 21:56:00,003 - INFO - Accuracy: 0.7333
+2025-02-11 21:56:00,003 - INFO - Miss Rate: 0.2561
+2025-02-11 21:56:00,004 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:56:00,004 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:56:00,004 - INFO - Performing grid search for Neural Network...
+2025-02-11 21:56:09,661 - INFO - Neural Network's best parameters: {'activation': 'tanh', 'hidden_layer_sizes': (50, 50), 'solver': 'sgd'}
+2025-02-11 21:56:09,662 - INFO - Starting model performance evaluation...
+2025-02-11 21:56:09,669 - INFO - Precision: 0.7683
+2025-02-11 21:56:09,670 - INFO - Recall: 0.7683
+2025-02-11 21:56:09,674 - INFO - F1 Score: 0.7683
+2025-02-11 21:56:09,675 - INFO - Accuracy: 0.7467
+2025-02-11 21:56:09,675 - INFO - Miss Rate: 0.2317
+2025-02-11 21:56:09,676 - INFO - Fallout Rate: 0.2794
+2025-02-11 21:56:09,680 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:56:09,681 - INFO - Performing grid search for SVM...
+2025-02-11 21:56:09,898 - INFO - SVM's best parameters: {'C': 1, 'kernel': 'linear'}
+2025-02-11 21:56:09,899 - INFO - Starting model performance evaluation...
+2025-02-11 21:56:09,912 - INFO - Precision: 0.7470
+2025-02-11 21:56:09,913 - INFO - Recall: 0.7561
+2025-02-11 21:56:09,914 - INFO - F1 Score: 0.7515
+2025-02-11 21:56:09,914 - INFO - Accuracy: 0.7267
+2025-02-11 21:56:09,915 - INFO - Miss Rate: 0.2439
+2025-02-11 21:56:09,916 - INFO - Fallout Rate: 0.3088
+2025-02-11 21:56:09,916 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:56:09,917 - INFO - Performing grid search for Gradient Boosting...
+2025-02-11 21:56:57,645 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 200}
+2025-02-11 21:56:57,646 - INFO - Starting model performance evaluation...
+2025-02-11 21:56:57,653 - INFO - Precision: 0.7176
+2025-02-11 21:56:57,654 - INFO - Recall: 0.7439
+2025-02-11 21:56:57,654 - INFO - F1 Score: 0.7305
+2025-02-11 21:56:57,656 - INFO - Accuracy: 0.7000
+2025-02-11 21:56:57,658 - INFO - Miss Rate: 0.2561
+2025-02-11 21:56:57,658 - INFO - Fallout Rate: 0.3529
+2025-02-11 21:56:57,659 - INFO - Model performance evaluation completed successfully.
+2025-02-11 21:56:57,660 - INFO - Grid search completed successfully.
+2025-02-11 21:56:57,670 - INFO - Model results saved successfully as CSV files.
+2025-02-12 08:52:37,868 - INFO - Starting preprocessing...
+2025-02-12 08:52:37,896 - INFO - Starting data exploring process...
+2025-02-12 08:52:37,900 - INFO - Converted categorical columns to object type.
+2025-02-12 08:52:37,910 - INFO - Descriptive Statistics:
+               age  avg_glucose_level          bmi
+count  5110.000000        5110.000000  4909.000000
+mean     43.226614         106.147677    28.893237
+std      22.612647          45.283560     7.854067
+min       0.080000          55.120000    10.300000
+25%      25.000000          77.245000    23.500000
+50%      45.000000          91.885000    28.100000
+75%      61.000000         114.090000    33.100000
+max      82.000000         271.740000    97.600000
+2025-02-12 08:52:37,920 - INFO - Number of duplicate rows: 0
+2025-02-12 08:52:37,922 - INFO - Missing values per column:
+gender                 0
+age                    0
+hypertension           0
+heart_disease          0
+ever_married           0
+work_type              0
+Residence_type         0
+avg_glucose_level      0
+bmi                  201
+smoking_status         0
+stroke                 0
+dtype: int64
+2025-02-12 08:52:37,923 - INFO - Data exploring process completed.
+2025-02-12 08:52:37,924 - INFO - Starting categorical data visualization...
+2025-02-12 08:52:37,928 - INFO - Value counts for gender:
+gender
+Female    2994
+Male      2115
+Other        1
+Name: count, dtype: int64
+2025-02-12 08:52:38,104 - INFO - Bar chart saved as plots\gender_value_counts.png.
+2025-02-12 08:52:38,105 - INFO - Value counts for hypertension:
+hypertension
+0    4612
+1     498
+Name: count, dtype: int64
+2025-02-12 08:52:38,158 - INFO - Bar chart saved as plots\hypertension_value_counts.png.
+2025-02-12 08:52:38,160 - INFO - Value counts for heart_disease:
+heart_disease
+0    4834
+1     276
+Name: count, dtype: int64
+2025-02-12 08:52:38,218 - INFO - Bar chart saved as plots\heart_disease_value_counts.png.
+2025-02-12 08:52:38,219 - INFO - Value counts for ever_married:
+ever_married
+Yes    3353
+No     1757
+Name: count, dtype: int64
+2025-02-12 08:52:38,281 - INFO - Bar chart saved as plots\ever_married_value_counts.png.
+2025-02-12 08:52:38,283 - INFO - Value counts for work_type:
+work_type
+Private          2925
+Self-employed     819
+children          687
+Govt_job          657
+Never_worked       22
+Name: count, dtype: int64
+2025-02-12 08:52:38,348 - INFO - Bar chart saved as plots\work_type_value_counts.png.
+2025-02-12 08:52:38,350 - INFO - Value counts for Residence_type:
+Residence_type
+Urban    2596
+Rural    2514
+Name: count, dtype: int64
+2025-02-12 08:52:38,412 - INFO - Bar chart saved as plots\Residence_type_value_counts.png.
+2025-02-12 08:52:38,414 - INFO - Value counts for smoking_status:
+smoking_status
+never smoked       1892
+Unknown            1544
+formerly smoked     885
+smokes              789
+Name: count, dtype: int64
+2025-02-12 08:52:38,472 - INFO - Bar chart saved as plots\smoking_status_value_counts.png.
+2025-02-12 08:52:38,474 - INFO - Value counts for stroke:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-12 08:52:38,528 - INFO - Bar chart saved as plots\stroke_value_counts.png.
+2025-02-12 08:52:38,529 - INFO - Categorical data visualization completed.
+2025-02-12 08:52:38,529 - INFO - Starting numerical data visualization...
+2025-02-12 08:52:38,599 - INFO - Histogram saved as plots\age_histogram.png.
+2025-02-12 08:52:38,671 - INFO - Histogram saved as plots\avg_glucose_level_histogram.png.
+2025-02-12 08:52:38,747 - INFO - Histogram saved as plots\bmi_histogram.png.
+2025-02-12 08:52:38,747 - INFO - Numerical data visualization completed.
+2025-02-12 08:52:38,748 - INFO - Starting BMI filling process...
+2025-02-12 08:52:38,751 - INFO - Created 4 glucose bins.
+2025-02-12 08:52:38,758 - INFO - Calculated median BMI for each (gender, glucose_bin) group.
+2025-02-12 08:52:38,761 - INFO - Filled 201 missing BMI values.
+2025-02-12 08:52:38,762 - INFO - Dropped temporary columns used for grouping.
+2025-02-12 08:52:38,762 - INFO - BMI filling process completed.
+2025-02-12 08:52:38,762 - INFO - Starting encoding process...
+2025-02-12 08:52:38,763 - INFO - Encoded column: gender
+2025-02-12 08:52:38,764 - INFO - Encoded column: ever_married
+2025-02-12 08:52:38,765 - INFO - Encoded column: work_type
+2025-02-12 08:52:38,766 - INFO - Encoded column: Residence_type
+2025-02-12 08:52:38,766 - INFO - Encoded column: smoking_status
+2025-02-12 08:52:38,766 - INFO - Encoding process completed.
+2025-02-12 08:52:38,767 - INFO - Preprocessing completed.
+2025-02-12 08:52:38,767 - INFO - Starting feature analysis...
+2025-02-12 08:52:38,767 - INFO - Calculating pearson correlation matrix...
+2025-02-12 08:52:38,770 - INFO - Correlation matrix calculated successfully.
+2025-02-12 08:52:38,946 - INFO - Correlation heatmap saved as plots\correlation_heatmap_pearson.png.
+2025-02-12 08:52:38,946 - INFO - Starting the data splitting process...
+2025-02-12 08:52:38,947 - INFO - Data successfully split into features and outcome.
+2025-02-12 08:52:38,953 - INFO - Features successfully standardized.
+2025-02-12 08:52:38,955 - INFO - Data successfully split into training and testing sets.
+2025-02-12 08:52:38,955 - INFO - Starting PCA analysis...
+2025-02-12 08:52:38,958 - INFO - PCA analysis completed successfully.
+2025-02-12 08:52:38,959 - INFO - Plotting the Scree plot for status: before balancing...
+2025-02-12 08:52:39,028 - INFO - Scree plot saved as plots\scree_plot_before balancing.png.
+2025-02-12 08:52:39,029 - INFO - Explained variance by each principal component:
+2025-02-12 08:52:39,030 - INFO - PC1: 22.89%
+2025-02-12 08:52:39,030 - INFO - PC2: 11.93%
+2025-02-12 08:52:39,030 - INFO - PC3: 10.53%
+2025-02-12 08:52:39,031 - INFO - PC4: 10.06%
+2025-02-12 08:52:39,031 - INFO - PC5: 9.23%
+2025-02-12 08:52:39,031 - INFO - PC6: 9.02%
+2025-02-12 08:52:39,031 - INFO - PC7: 8.38%
+2025-02-12 08:52:39,031 - INFO - PC8: 7.77%
+2025-02-12 08:52:39,031 - INFO - PC9: 7.16%
+2025-02-12 08:52:39,031 - INFO - PC10: 3.03%
+2025-02-12 08:52:39,032 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-12 08:52:39,035 - INFO - Sorted Contributions of Features to PC1:
+2025-02-12 08:52:39,035 - INFO - age                  0.56
+ever_married         0.51
+bmi                  0.38
+avg_glucose_level    0.29
+hypertension         0.28
+heart_disease        0.25
+work_type            0.22
+smoking_status       0.12
+gender               0.02
+residence_type       0.02
+Name: PC1, dtype: float64
+2025-02-12 08:52:39,036 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-12 08:52:39,036 - INFO - gender               0.58
+heart_disease        0.47
+work_type            0.40
+avg_glucose_level    0.35
+bmi                  0.23
+ever_married         0.20
+hypertension         0.20
+smoking_status       0.17
+age                  0.05
+residence_type       0.01
+Name: PC2, dtype: float64
+2025-02-12 08:52:39,037 - INFO - Starting the balancing process...
+2025-02-12 08:52:39,038 - INFO - Before balancing:
+stroke
+0    4861
+1     249
+Name: count, dtype: int64
+2025-02-12 08:52:39,041 - INFO - 
+After balancing:
+stroke
+0    249
+1    249
+Name: count, dtype: int64
+2025-02-12 08:52:39,041 - INFO - Balancing completed successfully.
+2025-02-12 08:52:39,041 - INFO - Starting the data splitting process...
+2025-02-12 08:52:39,042 - INFO - Data successfully split into features and outcome.
+2025-02-12 08:52:39,044 - INFO - Features successfully standardized.
+2025-02-12 08:52:39,045 - INFO - Data successfully split into training and testing sets.
+2025-02-12 08:52:39,045 - INFO - Starting PCA analysis...
+2025-02-12 08:52:39,046 - INFO - PCA analysis completed successfully.
+2025-02-12 08:52:39,047 - INFO - Plotting the Scree plot for status: after balancing...
+2025-02-12 08:52:39,120 - INFO - Scree plot saved as plots\scree_plot_after balancing.png.
+2025-02-12 08:52:39,120 - INFO - Explained variance by each principal component:
+2025-02-12 08:52:39,121 - INFO - PC1: 21.43%
+2025-02-12 08:52:39,121 - INFO - PC2: 12.55%
+2025-02-12 08:52:39,122 - INFO - PC3: 11.67%
+2025-02-12 08:52:39,122 - INFO - PC4: 10.58%
+2025-02-12 08:52:39,122 - INFO - PC5: 9.64%
+2025-02-12 08:52:39,123 - INFO - PC6: 8.39%
+2025-02-12 08:52:39,123 - INFO - PC7: 8.30%
+2025-02-12 08:52:39,123 - INFO - PC8: 7.56%
+2025-02-12 08:52:39,123 - INFO - PC9: 6.40%
+2025-02-12 08:52:39,123 - INFO - PC10: 3.47%
+2025-02-12 08:52:39,123 - INFO - Evaluating the contribution of features to PCA dimensions...
+2025-02-12 08:52:39,124 - INFO - Sorted Contributions of Features to PC1:
+2025-02-12 08:52:39,124 - INFO - age                  0.49
+ever_married         0.46
+bmi                  0.40
+avg_glucose_level    0.37
+work_type            0.28
+hypertension         0.28
+heart_disease        0.24
+residence_type       0.13
+smoking_status       0.12
+gender               0.05
+Name: PC1, dtype: float64
+2025-02-12 08:52:39,125 - INFO - 
+Sorted Contributions of Features to PC2:
+2025-02-12 08:52:39,125 - INFO - heart_disease        0.51
+gender               0.50
+smoking_status       0.33
+avg_glucose_level    0.30
+bmi                  0.28
+work_type            0.27
+residence_type       0.26
+ever_married         0.24
+hypertension         0.08
+age                  0.02
+Name: PC2, dtype: float64
+2025-02-12 08:52:39,127 - INFO - Feature analysis completed.
+2025-02-12 08:52:39,127 - INFO - Starting model training...
+2025-02-12 08:52:39,127 - INFO - Starting grid search for model selection...
+2025-02-12 08:52:39,127 - INFO - Performing grid search for Decision Tree...
+2025-02-12 08:52:42,163 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-12 08:52:42,163 - INFO - Starting model performance evaluation...
+2025-02-12 08:52:42,170 - INFO - Precision: 0.7013
+2025-02-12 08:52:42,170 - INFO - Recall: 0.6585
+2025-02-12 08:52:42,170 - INFO - F1 Score: 0.6792
+2025-02-12 08:52:42,170 - INFO - Accuracy: 0.6600
+2025-02-12 08:52:42,170 - INFO - Miss Rate: 0.3415
+2025-02-12 08:52:42,170 - INFO - Fallout Rate: 0.3382
+2025-02-12 08:52:42,171 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:52:42,171 - INFO - Performing grid search for Random Forest...
+2025-02-12 08:52:54,387 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 200}
+2025-02-12 08:52:54,388 - INFO - Starting model performance evaluation...
+2025-02-12 08:52:54,391 - INFO - Precision: 0.7500
+2025-02-12 08:52:54,392 - INFO - Recall: 0.7683
+2025-02-12 08:52:54,392 - INFO - F1 Score: 0.7590
+2025-02-12 08:52:54,392 - INFO - Accuracy: 0.7333
+2025-02-12 08:52:54,392 - INFO - Miss Rate: 0.2317
+2025-02-12 08:52:54,393 - INFO - Fallout Rate: 0.3088
+2025-02-12 08:52:54,393 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:52:54,394 - INFO - Performing grid search for Neural Network...
+2025-02-12 08:53:02,015 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-12 08:53:02,016 - INFO - Starting model performance evaluation...
+2025-02-12 08:53:02,021 - INFO - Precision: 0.7500
+2025-02-12 08:53:02,022 - INFO - Recall: 0.7683
+2025-02-12 08:53:02,022 - INFO - F1 Score: 0.7590
+2025-02-12 08:53:02,022 - INFO - Accuracy: 0.7333
+2025-02-12 08:53:02,023 - INFO - Miss Rate: 0.2317
+2025-02-12 08:53:02,023 - INFO - Fallout Rate: 0.3088
+2025-02-12 08:53:02,023 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:53:02,024 - INFO - Performing grid search for SVM...
+2025-02-12 08:53:02,145 - INFO - SVM's best parameters: {'C': 0.1, 'kernel': 'linear'}
+2025-02-12 08:53:02,145 - INFO - Starting model performance evaluation...
+2025-02-12 08:53:02,151 - INFO - Precision: 0.7500
+2025-02-12 08:53:02,152 - INFO - Recall: 0.7683
+2025-02-12 08:53:02,152 - INFO - F1 Score: 0.7590
+2025-02-12 08:53:02,152 - INFO - Accuracy: 0.7333
+2025-02-12 08:53:02,153 - INFO - Miss Rate: 0.2317
+2025-02-12 08:53:02,153 - INFO - Fallout Rate: 0.3088
+2025-02-12 08:53:02,153 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:53:02,154 - INFO - Performing grid search for Gradient Boosting...
+2025-02-12 08:53:30,376 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 10, 'n_estimators': 50}
+2025-02-12 08:53:30,376 - INFO - Starting model performance evaluation...
+2025-02-12 08:53:30,381 - INFO - Precision: 0.7468
+2025-02-12 08:53:30,381 - INFO - Recall: 0.7195
+2025-02-12 08:53:30,381 - INFO - F1 Score: 0.7329
+2025-02-12 08:53:30,382 - INFO - Accuracy: 0.7133
+2025-02-12 08:53:30,382 - INFO - Miss Rate: 0.2805
+2025-02-12 08:53:30,382 - INFO - Fallout Rate: 0.2941
+2025-02-12 08:53:30,383 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:53:30,384 - INFO - Grid search completed successfully.
+2025-02-12 08:53:30,385 - INFO - Successfully selected the first 2 principal components.
+2025-02-12 08:53:30,385 - INFO - Starting grid search for model selection...
+2025-02-12 08:53:30,385 - INFO - Performing grid search for Decision Tree...
+2025-02-12 08:53:30,523 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 10}
+2025-02-12 08:53:30,524 - INFO - Starting model performance evaluation...
+2025-02-12 08:53:30,528 - INFO - Precision: 0.6349
+2025-02-12 08:53:30,528 - INFO - Recall: 0.4878
+2025-02-12 08:53:30,529 - INFO - F1 Score: 0.5517
+2025-02-12 08:53:30,529 - INFO - Accuracy: 0.5667
+2025-02-12 08:53:30,529 - INFO - Miss Rate: 0.5122
+2025-02-12 08:53:30,529 - INFO - Fallout Rate: 0.3382
+2025-02-12 08:53:30,529 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:53:30,530 - INFO - Performing grid search for Random Forest...
+2025-02-12 08:53:52,646 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 10, 'n_estimators': 100}
+2025-02-12 08:53:52,647 - INFO - Starting model performance evaluation...
+2025-02-12 08:53:52,659 - INFO - Precision: 0.7067
+2025-02-12 08:53:52,660 - INFO - Recall: 0.6463
+2025-02-12 08:53:52,661 - INFO - F1 Score: 0.6752
+2025-02-12 08:53:52,661 - INFO - Accuracy: 0.6600
+2025-02-12 08:53:52,661 - INFO - Miss Rate: 0.3537
+2025-02-12 08:53:52,662 - INFO - Fallout Rate: 0.3235
+2025-02-12 08:53:52,662 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:53:52,663 - INFO - Performing grid search for Neural Network...
+2025-02-12 08:54:00,090 - INFO - Neural Network's best parameters: {'activation': 'relu', 'hidden_layer_sizes': (50,), 'solver': 'sgd'}
+2025-02-12 08:54:00,091 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:00,104 - INFO - Precision: 0.7397
+2025-02-12 08:54:00,105 - INFO - Recall: 0.6585
+2025-02-12 08:54:00,105 - INFO - F1 Score: 0.6968
+2025-02-12 08:54:00,106 - INFO - Accuracy: 0.6867
+2025-02-12 08:54:00,106 - INFO - Miss Rate: 0.3415
+2025-02-12 08:54:00,107 - INFO - Fallout Rate: 0.2794
+2025-02-12 08:54:00,108 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:00,108 - INFO - Performing grid search for SVM...
+2025-02-12 08:54:00,300 - INFO - SVM's best parameters: {'C': 10, 'kernel': 'poly'}
+2025-02-12 08:54:00,301 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:00,312 - INFO - Precision: 0.6374
+2025-02-12 08:54:00,313 - INFO - Recall: 0.7073
+2025-02-12 08:54:00,313 - INFO - F1 Score: 0.6705
+2025-02-12 08:54:00,314 - INFO - Accuracy: 0.6200
+2025-02-12 08:54:00,314 - INFO - Miss Rate: 0.2927
+2025-02-12 08:54:00,315 - INFO - Fallout Rate: 0.4853
+2025-02-12 08:54:00,315 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:00,316 - INFO - Performing grid search for Gradient Boosting...
+2025-02-12 08:54:32,941 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-12 08:54:32,942 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:32,946 - INFO - Precision: 0.7101
+2025-02-12 08:54:32,946 - INFO - Recall: 0.5976
+2025-02-12 08:54:32,947 - INFO - F1 Score: 0.6490
+2025-02-12 08:54:32,947 - INFO - Accuracy: 0.6467
+2025-02-12 08:54:32,947 - INFO - Miss Rate: 0.4024
+2025-02-12 08:54:32,947 - INFO - Fallout Rate: 0.2941
+2025-02-12 08:54:32,947 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:32,948 - INFO - Grid search completed successfully.
+2025-02-12 08:54:32,948 - INFO - Successfully selected the first 8 principal components.
+2025-02-12 08:54:32,949 - INFO - Starting grid search for model selection...
+2025-02-12 08:54:32,949 - INFO - Performing grid search for Decision Tree...
+2025-02-12 08:54:33,130 - INFO - Decision Tree's best parameters: {'max_depth': 10, 'min_samples_leaf': 4, 'min_samples_split': 2}
+2025-02-12 08:54:33,130 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:33,135 - INFO - Precision: 0.6087
+2025-02-12 08:54:33,135 - INFO - Recall: 0.5122
+2025-02-12 08:54:33,135 - INFO - F1 Score: 0.5563
+2025-02-12 08:54:33,135 - INFO - Accuracy: 0.5533
+2025-02-12 08:54:33,135 - INFO - Miss Rate: 0.4878
+2025-02-12 08:54:33,136 - INFO - Fallout Rate: 0.3971
+2025-02-12 08:54:33,136 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:33,136 - INFO - Performing grid search for Random Forest...
+2025-02-12 08:54:44,193 - INFO - Random Forest's best parameters: {'max_depth': None, 'min_samples_leaf': 4, 'min_samples_split': 2, 'n_estimators': 50}
+2025-02-12 08:54:44,193 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:44,203 - INFO - Precision: 0.7625
+2025-02-12 08:54:44,203 - INFO - Recall: 0.7439
+2025-02-12 08:54:44,204 - INFO - F1 Score: 0.7531
+2025-02-12 08:54:44,204 - INFO - Accuracy: 0.7333
+2025-02-12 08:54:44,204 - INFO - Miss Rate: 0.2561
+2025-02-12 08:54:44,205 - INFO - Fallout Rate: 0.2794
+2025-02-12 08:54:44,205 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:44,205 - INFO - Performing grid search for Neural Network...
+2025-02-12 08:54:54,383 - INFO - Neural Network's best parameters: {'activation': 'tanh', 'hidden_layer_sizes': (50, 50), 'solver': 'sgd'}
+2025-02-12 08:54:54,383 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:54,392 - INFO - Precision: 0.7683
+2025-02-12 08:54:54,393 - INFO - Recall: 0.7683
+2025-02-12 08:54:54,393 - INFO - F1 Score: 0.7683
+2025-02-12 08:54:54,393 - INFO - Accuracy: 0.7467
+2025-02-12 08:54:54,394 - INFO - Miss Rate: 0.2317
+2025-02-12 08:54:54,394 - INFO - Fallout Rate: 0.2794
+2025-02-12 08:54:54,394 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:54,395 - INFO - Performing grid search for SVM...
+2025-02-12 08:54:54,647 - INFO - SVM's best parameters: {'C': 1, 'kernel': 'linear'}
+2025-02-12 08:54:54,647 - INFO - Starting model performance evaluation...
+2025-02-12 08:54:54,657 - INFO - Precision: 0.7470
+2025-02-12 08:54:54,658 - INFO - Recall: 0.7561
+2025-02-12 08:54:54,658 - INFO - F1 Score: 0.7515
+2025-02-12 08:54:54,658 - INFO - Accuracy: 0.7267
+2025-02-12 08:54:54,659 - INFO - Miss Rate: 0.2439
+2025-02-12 08:54:54,659 - INFO - Fallout Rate: 0.3088
+2025-02-12 08:54:54,659 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:54:54,660 - INFO - Performing grid search for Gradient Boosting...
+2025-02-12 08:55:31,462 - INFO - Gradient Boosting's best parameters: {'learning_rate': 0.01, 'max_depth': 3, 'min_samples_leaf': 2, 'min_samples_split': 5, 'n_estimators': 200}
+2025-02-12 08:55:31,463 - INFO - Starting model performance evaluation...
+2025-02-12 08:55:31,466 - INFO - Precision: 0.7176
+2025-02-12 08:55:31,467 - INFO - Recall: 0.7439
+2025-02-12 08:55:31,467 - INFO - F1 Score: 0.7305
+2025-02-12 08:55:31,467 - INFO - Accuracy: 0.7000
+2025-02-12 08:55:31,467 - INFO - Miss Rate: 0.2561
+2025-02-12 08:55:31,468 - INFO - Fallout Rate: 0.3529
+2025-02-12 08:55:31,468 - INFO - Model performance evaluation completed successfully.
+2025-02-12 08:55:31,468 - INFO - Grid search completed successfully.
+2025-02-12 08:55:31,478 - INFO - Model results saved successfully as CSV files.
