@@ -38,32 +38,53 @@ Final_workshop_New/
 
 # Key stages
 Data Import: Load the dataset -> 
+
 Preprocessing: Handle missing values, encode categorical features, and perform initial data exploration. -> 
+
 Visualizations:  Plot distributions for categorical and numerical columns to visualize data characteristics. -> 
+
 Feature Analysis and Balancing: Perform PCA to reduce dimensionality, analyze feature contributions, and balance the dataset. -> 
+
 Models:Train machine learning models using both full features and PCA-reduced features, followed by hyperparameter tuning through grid search. -> 
+
 Results: Save  the model performance results, comparing them across different feature sets, and store them in CSV files.
 
 # Explanations of Key Parameters
 Categorical Columns: Columns containing categorical data
+
 Numerical Columns: Columns containing numerical data
+
 Encoding Dictionary for Categorical Columns: The categorical columns are encoded to numerical values for model compatibility.
+
 Features List: The list of features used as input for the models.
+
 Models: The models defined and used for training the dataset.
+
 Grid Search Parameters: Parameters for each model used to tune and optimize the models during training.
 
 
 # To run the project follow this commands:
 #install Virtualenv 
+
 pip install virtualenv
+
 #create virtual environment:
+
 python -m venv venv
+
 #activate virtual environment
+
 .\venv\Scripts\activate
+
 #update venv's python package-installer (pip) to its latest version
+
 python.exe -m pip install --upgrade pip
+
 #install projects packages
+
 pip install -e .
+
 #install dev packages 
+
 pip install -e .[dev]
 
